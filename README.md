@@ -1,4 +1,4 @@
-![logo](https://github.com/tahiryardeveloper/tahiryardeveloper/commits?author=tahiryardeveloper)
+![logo](https://github.com/tahiryardeveloper/tahiryardeveloper/blob/main/Blue%20and%20White%20Simple%20Daily%20Vlogger%20YouTube%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tahir Yar</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
